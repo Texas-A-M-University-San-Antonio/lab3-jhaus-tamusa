@@ -2,7 +2,7 @@
  * Name: [John Hauser]
  * Date: [9/10/25]
 * Purpose: InClass 3 - 
-* [Write a description about this InClass 3 program]
+* [finding surface area and volume of a cube]
  */
 
 import java.util.Scanner; // Don't forget to import and declare a Scanner for user input.
